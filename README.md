@@ -13,7 +13,7 @@ Any version of Matlab
 
 ## Implementation details and running
 
-You may download and run them. 
+You may download and run them along with an appropiate the two-electron inetgral (TEI) data file. 
 
 ## Copyright / License 
 
